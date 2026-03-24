@@ -1,0 +1,15 @@
+
+body{
+font-family:Arial;
+background:#f4f6f8;
+text-align:center;
+}
+
+.panel{
+background:white;
+margin:20px auto;
+padding:20px;
+width:80%;
+border-radius:10px;
+box-shadow:0 3px 10px rgba(0,0,0,0.1);
+}
